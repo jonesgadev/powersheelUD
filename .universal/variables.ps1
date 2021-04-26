@@ -1,0 +1,1 @@
+﻿New-PSUVariable -Name "LabkeyServers" -Value "prime20.ohsu.edu,prime20uat.ohsu.edu,prime20test.ohsu.edu"
